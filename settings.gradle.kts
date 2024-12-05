@@ -11,5 +11,4 @@ plugins {
 }
 
 rootProject.name = "GradleStudy"
-include("app")
-include("ChildProject")
+include("app", "ChildGradleStudy:app")
