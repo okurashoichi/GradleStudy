@@ -1,0 +1,3 @@
+[submodule "ChildGradleStudy"]
+	path = ChildGradleStudy
+	url = git@github.com:okurashoichi/ChildGradleStudy.git
