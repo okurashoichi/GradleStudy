@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = "GradleStudy"
 include("app")
+include("ChildProject")
